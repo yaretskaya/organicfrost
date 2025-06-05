@@ -78,3 +78,4 @@
     "typescript": "^5"
   }
 }
+fix: create correct package.json
